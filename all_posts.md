@@ -1,12 +1,9 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Wishes from friends
+landing-title: 'Wishes from friends'
 nav-menu: true
-description: null
-image: null
-author: null
 show_tile: true
 ---
 
-<h1>All posts</h1>
+<h1>Wishes from friends</h1>

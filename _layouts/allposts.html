@@ -25,7 +25,7 @@
 	    <h1>{{ post.title }}</h1>
 	  </header>
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
+    {% if post.video %}{% include youtubePlayer.html id=post.video %}{% endif %}
 	  <p>{{ post.content }}</p>
 	  {% endif %}
           {% endfor %}
@@ -33,6 +33,8 @@
       </section>
 
     </div>
+
+    {% include footer.html %}
 
   </body>
 

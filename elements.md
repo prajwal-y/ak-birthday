@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-nav-menu: false
+title: Birthday Card
+nav-menu: true
 ---
 
 <!-- Main -->
