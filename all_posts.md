@@ -1,9 +1,9 @@
 ---
 layout: allposts
-title: Wishes from friends
-landing-title: 'Wishes from friends'
+title: Birthday Wishes
+landing-title: 'Birthday Wishes'
 nav-menu: true
 show_tile: true
 ---
 
-<h1>Wishes from friends</h1>
+<h1>Birthday Wishes</h1>

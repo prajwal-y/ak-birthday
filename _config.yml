@@ -1,8 +1,8 @@
 # site settings
 title: Happy birthday
-subtitle: A
+subtitle: Akhila
 email: youremailaddress@gmail.com
-description: Sample happy birthday message
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 
